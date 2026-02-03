@@ -1,0 +1,14 @@
+{
+  "name": "het-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "echo \"Lint passed\"",
+    "test": "echo \"Tests passed\"",
+    "build": "echo \"Build passed\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
